@@ -346,28 +346,28 @@ Project PLATEAUでは、大量のオルソ画像のタイル化を効率的に�
 
 PLATEAUオルソ画像タイルをOGC WMSで利用します。
 
-** サービスアドレス
+**サービスアドレス**
 
 ```
 https://plateauortho.geospatial.jp/mapproxy/service
 ```
 
-** WMSバージョン
+**WMSバージョン**
 
 WMSバージョン1.1.1または、1.3.0に準拠しています。
 
-** WMSリクエスト
+**WMSリクエスト**
 
 以下のWMSリクエストをサポートしています。
 
 - GetCapabilities
 - GetMap
 
-** 座標系
+**座標系**
 
 EPSG 4326、EPSG 3857、EPSG 90091、CRS 84をサポートしています。
 
-** レイヤー
+**レイヤー**
 
 |レイヤー名|内容|
 |:---:|:---:|
@@ -375,7 +375,7 @@ EPSG 4326、EPSG 3857、EPSG 90091、CRS 84をサポートしています。
 |photo|国土地理院の写真（ベースマップ）|
 |plateau_photo|plateauとphotoの重ね合わせ|
 
-** リクエスト例
+**リクエスト例**
 
 - GetCapabilities
 
