@@ -354,7 +354,7 @@ https://plateauortho.geospatial.jp/mapproxy/service
 
 **WMSバージョン**
 
-WMSバージョン1.1.1または、1.3.0に準拠しています。
+WMSバージョン1.1.1または1.3.0に準拠しています。
 
 **WMSリクエスト**
 
