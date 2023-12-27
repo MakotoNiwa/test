@@ -375,9 +375,10 @@ EPSG 4326、EPSG 3857、EPSG 90091、CRS 84をサポートしています。
 |photo|国土地理院の写真（ベースマップ）|
 |plateau_photo|plateauとphotoの重ね合わせ|
 
-###リクエスト例
+### リクエスト例
 
 - GetCapabilities
+
 ```
 https://plateauortho.geospatial.jp/mapproxy/service?REQUEST=GetCapabilities
 ```
